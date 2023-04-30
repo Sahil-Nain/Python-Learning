@@ -1,7 +1,7 @@
 # Learn Python
 
-This repository contains a collection of Python lessons for beginners. The lessons covers the content from the video shared from [Freecodecamp](freecodecamp.org). This repository serves as a refrence guide to this video.
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HGOBQPFzWKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+This repository contains a collection of Python lessons for beginners. The lessons covers the content from the video shared from [Freecodecamp](freecodecamp.org). This repository serves as a refrence guide to this [video](https://youtu.be/HGOBQPFzWKo). Thank you freecodecamp for providing free knowlage to us.
+
 
 ## Prerequisites
 
