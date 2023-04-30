@@ -14,7 +14,7 @@ The lessons are organized into several sections, each covering a specific topic.
 
 Here's an overview of the lesson structure:
 
-1. Lists
+1. [Lists](Python-Learning/Lists.md)
 
    - What is lists in Python?
    - Getting Started
