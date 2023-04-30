@@ -15,30 +15,35 @@ The lessons are organized into several sections, each covering a specific topic.
 Here's an overview of the lesson structure:
 
 1. Lists
+
    - What is lists in Python?
    - Getting Started
    - Basic Syntax
    - how to store data in lists
 
 2. Tuples
+
    - what is tuples in Python?
    - Basic Syntax
    - Difference b/w lists and tuples
    - examples
 
 3. Dictonaries
+
    - what is dictonaries in python?
    - Parameters and arguments
    - Variable scope
    - storing data in dictonaries
 
 4. Sets
+
    - What are sets?
    - examples
    - Different ways to use sets.
    - performing different operations on sets
 
 5. Strings
+
    - What are strings?
    - Manupulating Strings in different ways
    - Examples
@@ -73,4 +78,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 We would like to thank all the contributors who helped create this collection of Python lessons. We also want to thank the Python community for creating such a wonderful programming language.
 
 Happy learning!```
-
