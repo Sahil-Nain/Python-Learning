@@ -14,50 +14,50 @@ The lessons are organized into several sections, each covering a specific topic.
 
 Here's an overview of the lesson structure:
 
-1. [Lists](Python-Learning/Lists.md)
+1. [Lists](https://github.com/Sahil-Nain/Python-Learning/blob/main/1.%20Lists.md)
 
    - What is lists in Python?
    - Getting Started
    - Basic Syntax
    - how to store data in lists
 
-2. Tuples
+2. [Tuples](https://github.com/Sahil-Nain/Python-Learning/blob/main/2.%20Tuples.md)
 
    - what is tuples in Python?
    - Basic Syntax
    - Difference b/w lists and tuples
    - examples
 
-3. Dictonaries
+3. [Dictonaries](https://github.com/Sahil-Nain/Python-Learning/blob/main/3.%20Dictonaries.md)
 
    - what is dictonaries in python?
    - Parameters and arguments
    - Variable scope
    - storing data in dictonaries
 
-4. Sets
+4. [Sets](https://github.com/Sahil-Nain/Python-Learning/blob/main/4.%20Sets.md)
 
    - What are sets?
    - examples
    - Different ways to use sets.
    - performing different operations on sets
 
-5. Strings
+5. [Strings](https://github.com/Sahil-Nain/Python-Learning/blob/main/5.%20Strings.md)
 
    - What are strings?
    - Manupulating Strings in different ways
    - Examples
 
-6. Collactions
+6. [Collactions](https://github.com/Sahil-Nain/Python-Learning/blob/main/6.%20Collections.md)
    - What are collactions in python?
    - importing collections
    - syntax
    - uses
-7. Itertools
+7. [Itertools](https://github.com/Sahil-Nain/Python-Learning/blob/main/7.%20Itertools.md)
    - What are itertools
    - syntax and usage
    - examples/exercises
-8. Lambda Function
+8. [Lambda Function](https://github.com/Sahil-Nain/Python-Learning/blob/main/8.%20Lambda.md)
    - what is a lambda function
    - use cases
    - syntax
