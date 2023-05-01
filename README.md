@@ -2,7 +2,6 @@
 
 This repository contains a collection of Python lessons for beginners. The lessons covers the content from the video shared from [Freecodecamp](freecodecamp.org). This repository serves as a refrence guide to this [video](https://youtu.be/HGOBQPFzWKo). Thank you freecodecamp for providing free knowlage to us.
 
-
 ## Prerequisites
 
 Before starting the lessons, you should have Python installed on your computer. You can download the latest version of Python from the official website (https://www.python.org/downloads/). We recommend using Python 3.x, but the lessons should also work with Python 2.x.
@@ -50,19 +49,42 @@ Here's an overview of the lesson structure:
    - Examples
 
 6. [Collactions](https://github.com/Sahil-Nain/Python-Learning/blob/main/6.%20Collections.md)
+
    - What are collactions in python?
    - importing collections
    - syntax
    - uses
+
 7. [Itertools](https://github.com/Sahil-Nain/Python-Learning/blob/main/7.%20Itertools.md)
+
    - What are itertools
    - syntax and usage
    - examples/exercises
+
 8. [Lambda Function](https://github.com/Sahil-Nain/Python-Learning/blob/main/8.%20Lambda.md)
+
    - what is a lambda function
    - use cases
    - syntax
    - examples
+
+9. [Exeptions and Errors](https://github.com/Sahil-Nain/Python-Learning/blob/main/9.%20Errors%20and%20Exceptions.md)
+
+   - what is the difference between syntax error and exception?
+   - What are the most common built in exceptions?
+   - How to raise and handle exceptions?
+   - How to define our own exceptions.
+
+10. [Logging](https://github.com/Sahil-Nain/Python-Learning/blob/main/10.%20Logging.md)
+
+   - What is logging?
+   - How to log stuff in your applications or code
+   - How to use different logging statements
+
+11. [JSON](https://github.com/Sahil-Nain/Python-Learning/blob/main/11.%20JSON.md)
+   - What is json
+   - How to work with json data
+   - How to encode and decode json data
 
 Each lesson includes sample code and explanations to help you understand the concepts. You should try to write and run the code yourself to reinforce your learning.
 
